@@ -1,0 +1,3 @@
+Requirements:
+	Ursina Engine 4.0+
+	Python 3.10+

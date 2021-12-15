@@ -1,0 +1,8 @@
+Application Controls:
+	Exit Application: Escape
+
+Player Movement:
+	Move Forwards: W
+	Move Backwards: S
+	Move Left: A
+	Move Right: D
